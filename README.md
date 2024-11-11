@@ -1,4 +1,4 @@
-HTML & CSS ALURA<a name="TOP"></a>
+Páginas Dinâmicas JavaScript ALURA<a name="TOP"></a>
 ===================
 - - - - 
 
